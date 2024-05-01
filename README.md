@@ -1,1 +1,1 @@
-https://movie-nextjs-rho.vercel.app/    <-- Ctrl + Click
+https://movie-nextjs-rho.vercel.app/    <- Ctrl/Command + Click
